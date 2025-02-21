@@ -14,7 +14,7 @@ Premade Viewer account:
 	- Username: guest
 	- password: guest
 
-**How to use in view only mode as a developer / code reviewer: **
+**How to use in view only mode as a developer / code reviewer:**
 
 	How to enter without a login:
 	- Open MainFragment -> Comment out lines 50-54 -> Uncomment lines 76-77 -> Run App -> Click login
