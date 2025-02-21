@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="log_in">Log In</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_viewer_profile">Create Viewer Profile</string>
+    <string name="create_artist_profile">Create Artist Profile</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="create_user">Create User</string>
+    <string name="create_artist">Create Artist</string>
+    <string name="piece_name">Piece Name</string>
+    <string name="description">Description</string>
+    <string name="date_created">Date Created</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="create_piece">Create Piece</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="are_you_an_artist">Are you an Artist?</string>
+    <string name="date_created_button">Date Created</string>
+    <string name="date_selected">Date Selected:</string>
+    <string name="logout">Logout</string>
+    <string name="artist">Artist</string>
+    <string name="viewer">Viewer</string>
+    <string name="your_artist_name">Your Artist Name</string>
+    <string name="date_created_text">Date Created:</string>
+    <string name="select_date">Select Date</string>
+    <string name="welcome">Welcome</string>
+    <string name="click_an_artist_to_view_their_work">Click an artist to view their work.</string>
+</resources>
