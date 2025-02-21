@@ -14,7 +14,7 @@ Premade Viewer account:
 	- Username: guest
 	- password: guest
 
-How to use in view only mode as a developer / code reviewer: 
+**How to use in view only mode as a developer / code reviewer: **
 
 	How to enter without a login:
 	- Open MainFragment -> Comment out lines 50-54 -> Uncomment lines 76-77 -> Run App -> Click login
@@ -23,7 +23,7 @@ How to use in view only mode as a developer / code reviewer:
 		- will not be able to update an accounts username/password
 		- will not be able to upload a piece 
 
-How to use with full functionality:
+**How to use with full functionality:**
 		
 	Creating an artist account:
 	- If you want to be able to upload art: create user -> enter fields -> click Artist -> enter Artist name -> submit
